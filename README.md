@@ -4,6 +4,6 @@ API has protocols of Graceful shutdown, broadcasting, and SIGTERM processing (SI
 
 runnable by 
 
-'''
+```
 uvicorn main:app --workers 1
-'''
+```
